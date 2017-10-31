@@ -1,5 +1,8 @@
 # README
 
+This is a twitter clone made entirely using Ruby On Rails as part of my main project in B.Tech curriculum.
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
